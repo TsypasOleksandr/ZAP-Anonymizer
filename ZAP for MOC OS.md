@@ -30,7 +30,7 @@ Enable SOCKS Proxy
 Host: 127.0.0.1
 Port: 9050
 Version: SOCKS5
-Also enable:
+Also enable: (This is configured in the following menu:Proxy Properties)
 Use SOCKS DNS
 After applying the changes, restart ZAP
 ```
